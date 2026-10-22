@@ -50,6 +50,7 @@ plugins:
 # Keep build output tidy
 exclude:
   - README.md
+  - MAINTAINING.md
   - Gemfile
   - Gemfile.lock
   - vendor
